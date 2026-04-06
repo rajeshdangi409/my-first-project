@@ -1,2 +1,3 @@
 Hello this is my first project using git
-Now this is chnge that i made means i add the new line to previous file 
+Now this is chnge that i made means i add the new line to previous file
+This is the line which is added when feature branch is created so lets gi
